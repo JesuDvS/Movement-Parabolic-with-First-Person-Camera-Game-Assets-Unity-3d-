@@ -6,13 +6,13 @@ Inspired by the dynamic game Severed Steel, we've recreated its smooth movement 
 
 If you want to try the compiled mechanics you can do so by visiting [here](https://jesusdvs.itch.io/movement-parabolic).
 ## How to integrate it into your personal project
-```
--First, clone the repository into your YourProject/Assets/ directory.
--Next, navigate to the YourProject/Assets/Movement-Parabolic-with-First-Person-Camera-Game-Assets-Unity-3d-/ciberv2/Scenes folder.
--Finally, you can open the SampleSceneCiber scene and explore all the objects.
--To use it in your own scene, you can turn the Player object into a prefab.
--Remember to set the layers as follows: Layer 6: Ground, 7: NoCross, or you can choose your preferred layer - make sure to check the Inspector carefully.
-```
+
+1. First, clone the repository into your YourProject/Assets/ directory.
+2. Next, navigate to the YourProject/Assets/Movement-Parabolic-with-First-Person-Camera-Game-Assets-Unity-3d-/ciberv2/Scenes folder.
+3. Finally, you can open the SampleSceneCiber scene and explore all the objects.
+4. To use it in your own scene, you can turn the Player object into a prefab.
+5. Remember to set the layers as follows: Layer 6: Ground, 7: NoCross, or you can choose your preferred layer - make sure to check the Inspector carefully.
+
 ## Credits
 :alien:
 > [!IMPORTANT]
