@@ -3,7 +3,8 @@ Inspired by the dynamic game Severed Steel, we've recreated its smooth movement 
 
 > [!NOTE]
 > The Dotween tool is required to achieve a clean interpolation. If you don't have it, you can get it [here](https://pages.github.com/](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676).
-> If you want to try the compiled mechanics you can do so by visiting [here](https://jesusdvs.itch.io/movement-parabolic).
+
+If you want to try the compiled mechanics you can do so by visiting [here](https://jesusdvs.itch.io/movement-parabolic).
 
 ## Credits
 :alien:
